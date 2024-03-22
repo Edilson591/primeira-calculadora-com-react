@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esta é uma calculadora simples desenvolvida usando React. Ela permite que os usuários realizem operações básicas de aritmética, como adição, subtração, multiplicação e divisão. Projeto desenvolvido como forma de apredizagem da biblioteca react, do curso da DIO.
+Esta é uma calculadora simples desenvolvida usando React. Ela permite que os usuários realizem operações básicas de aritmética, como adição, subtração, multiplicação e divisão. Projeto desenvolvido como forma de aprendizagem da biblioteca react, do curso da DIO.
 
 ## Funcionalidades
 
